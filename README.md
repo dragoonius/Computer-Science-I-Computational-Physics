@@ -1,5 +1,4 @@
-# CSI-107-Computer-Science-I-Computational-Physics
-Course projects assigned in CSI 107 Computer Science I: Computational Physics (CSI 107) at Muhlenberg College.
+# Computer Science I: Computational Physics (CSI 107), Muhlenberg College
 
 ## Course Description:
 An introduction to Computer Science through the development of software to solve physics based problems. Emphasis is given to the implementation of models involving physics phenomena such as kinematics, the laws of motion, gravity, and momentum and energy conservation. Students learn to use basic software creation strategies, in designing and developing their physics simulations on their own and in collaboration with physics students. The course is intended for those with no prior experience in computer science but with a desire to hone problem solving and computing skills with a focus on physics. This course, in conjunction with PHY 1XX General Physics 1: Computational Physics, satisfies the IL requirement.
@@ -15,7 +14,7 @@ Course Outcomes are measurable achievements to be accomplished by the completion
 6.	Design, code, debug, and document programs using good practices of programming style and structure.
 7.	Adapt and apply modes of thinking from physics to better understand computer science principles, and to augment their problem-solving abilities.
 
-
+## Projects:
 ### Project 1: Alley-oop
 One of the most visually spectacular plays in basketball is the alley-oop dunk, where one player throws the ball into the air near the basket, and their teammate (or, occasionally, themselves) jumps, takes the ball in mid-air, and dunks it into the basket. Getting this play to work requires precise timing and aim for both the passer and the dunker, and while it is usually not a conscious calculation, every player that does it is using physics to figure out when and how to act. In this mini-project, you'll be more deliberately using physics to calculate how to keep an alley-oop from becoming an alley-oops. For simplicity, we will be confining ourselves to two dimensions, with the +x direction being towards the basket, and the +y direction being up.
 For this project, you will be implementing a program that performs several calculations regarding the setup for an alley-oop dunk. You will need to prompt the user for the distance of the player with the ball from the hoop, in meters, the angle at which the ball is thrown, and the jumping player’s jumping speed, in meters per second. Then, assuming the jumping player is 0.375 meters from the hoop, the jumping player’s maximum reach is 2.35 meters, and that the ball is being thrown from a height of 1.5 meters, calculate the speed, in meters per second, at which the ball needs to be thrown and how long the jumping player must wait, in seconds, to catch the ball at the top of their jump for the alley-oop dunk.
